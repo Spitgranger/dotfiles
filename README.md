@@ -9,5 +9,5 @@ This repository contains the .dotfile configurations for my current preferred se
 - volume controls are mapped to +/- 5%
 - default displays for laptop eDP and Displayport-1
 #### tmux
-- leader key switched to <ctrl><space>
+- leader key switched to ctrl-space
 - plugins installed for vim navigation
